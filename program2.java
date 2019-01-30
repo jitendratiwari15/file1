@@ -9,6 +9,7 @@ class IfElse
 		{
 			if((a%2)!=0)
 				System.out.println("Weird");
+			 System.out.println("sandeep patidar");
 			
 			else
 				System.out.println("Not Weird");
